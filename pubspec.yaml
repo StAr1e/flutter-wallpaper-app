@@ -1,0 +1,84 @@
+name: balochify
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_wallpaper_manager: ^0.0.4
+  palette_generator: ^0.3.3+5
+  google_fonts: ^6.2.1
+  flutter_screenutil: ^5.8.4
+  flutter_bloc: ^9.0.0
+  share_plus: ^10.1.4
+  curved_navigation_bar: ^1.0.6
+  animate_do: ^3.0.2
+  gallery_saver: ^2.3.2
+  permission_handler: ^11.0.1
+  url_launcher: ^6.1.0
+  firebase_core: ^3.11.0
+  firebase_auth: ^5.4.2
+  fluttertoast: ^8.2.11
+  google_sign_in: ^5.4.4 
+  path_provider: ^2.1.1
+
+dependency_overrides:
+  http: ^0.13.3  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/Background/bg.jpg
+    - assets/images/icons/google.png
+    - assets/images/icons/instagram.png
+    - assets/images/icons/applogo.png
+    - assets/images/icons/devlogo.jpg
+    - assets/images/icons/glogo.png
+
+    # Nature
+    - assets/images/Nature/n1.jpg
+    - assets/images/Nature/n2.jpg
+    - assets/images/Nature/n3.jpg
+    - assets/images/Nature/n4.jpg
+    - assets/images/Nature/n5.jpg
+    - assets/images/Nature/n6.jpg
+    - assets/images/Nature/n7.jpg
+    - assets/images/Nature/n8.jpg
+    - assets/images/Nature/n9.jpg
+    - assets/images/Nature/n10.jpg
+
+    # Beach/Mountain
+    - assets/images/Beach/b1.jpg
+    - assets/images/Beach/b2.jpg
+    - assets/images/Beach/b3.jpg
+    - assets/images/Beach/b4.jpg
+    - assets/images/Beach/b5.jpg
+    - assets/images/Beach/b6.jpg
+    - assets/images/Beach/b7.jpg
+    - assets/images/Beach/b8.jpg
+    - assets/images/Beach/b9.jpg
+    - assets/images/Beach/b10.jpg
+
+    # Portrait
+    - assets/images/Portrait/p1.jpg
+    - assets/images/Portrait/p2.jpg
+    - assets/images/Portrait/p3.jpg
+    - assets/images/Portrait/p4.jpg
+    - assets/images/Portrait/p5.jpg
+    - assets/images/Portrait/p6.jpg
+    - assets/images/Portrait/p7.jpg
+    - assets/images/Portrait/p8.jpg
+    - assets/images/Portrait/p9.jpg
+    - assets/images/Portrait/p10.jpg

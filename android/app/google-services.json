@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453023301593",
+    "project_id": "balochify-17",
+    "storage_bucket": "balochify-17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453023301593:android:0e6cc026684c5d596ee3c8",
+        "android_client_info": {
+          "package_name": "com.company.wallpaperapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNRzQfxOulzhq5Ts1LyU2okxhfnruYXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453023301593:android:6bc98111399c56c36ee3c8",
+        "android_client_info": {
+          "package_name": "com.example.balochify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNRzQfxOulzhq5Ts1LyU2okxhfnruYXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
