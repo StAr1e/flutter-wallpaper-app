@@ -6,12 +6,22 @@ A new Flutter wallpaper app with firebase integration.
 
 This project is a starting point for a Flutter application.
 
-### app screensgots
-(assets/images/screenshot/s1.JPG)
-(assets/images/screenshot/s2.JPG)
-(assets/images/screenshot/s3.JPG)
-(assets/images/screenshot/s4.JPG)
-(assets/images/screenshot/s5.JPG)
+## App Screenshots
+
+### Home Screen  
+![Screenshot 1](assets/images/screenshot/s1.JPG)
+
+### Wallpaper Preview  
+![Screenshot 2](assets/images/screenshot/s2.JPG)
+
+### Categories Page  
+![Screenshot 3](assets/images/screenshot/s3.JPG)
+
+### Favorites Page  
+![Screenshot 4](assets/images/screenshot/s4.JPG)
+
+### Settings Page  
+![Screenshot 5](assets/images/screenshot/s5.JPG)
 
 
 
