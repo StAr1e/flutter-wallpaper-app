@@ -41,48 +41,31 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCrb33aVaPny6Jv5_37xunTPZCF10TY8Pk',
-    appId: '1:453023301593:web:133cad70368f4ee36ee3c8',
-    messagingSenderId: '453023301593',
-    projectId: 'balochify-17',
-    authDomain: 'balochify-17.firebaseapp.com',
-    storageBucket: 'balochify-17.firebasestorage.app',
-    measurementId: 'G-QRC2L2SMGB',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDhNRzQfxOulzhq5Ts1LyU2okxhfnruYXk',
-    appId: '1:453023301593:android:6bc98111399c56c36ee3c8',
-    messagingSenderId: '453023301593',
-    projectId: 'balochify-17',
-    storageBucket: 'balochify-17.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCE01SCyBry1G3CbyvOYakrTkPhqo_TIcM',
-    appId: '1:453023301593:ios:485a32cbdc1e35ea6ee3c8',
-    messagingSenderId: '453023301593',
-    projectId: 'balochify-17',
-    storageBucket: 'balochify-17.firebasestorage.app',
-    iosBundleId: 'com.example.balochify',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCE01SCyBry1G3CbyvOYakrTkPhqo_TIcM',
-    appId: '1:453023301593:ios:485a32cbdc1e35ea6ee3c8',
-    messagingSenderId: '453023301593',
-    projectId: 'balochify-17',
-    storageBucket: 'balochify-17.firebasestorage.app',
-    iosBundleId: 'com.example.balochify',
-  );
 
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCrb33aVaPny6Jv5_37xunTPZCF10TY8Pk',
-    appId: '1:453023301593:web:7a4c286dfeab8df86ee3c8',
-    messagingSenderId: '453023301593',
-    projectId: 'balochify-17',
-    authDomain: 'balochify-17.firebaseapp.com',
-    storageBucket: 'balochify-17.firebasestorage.app',
-    measurementId: 'G-B45V8DLCK6',
-  );
 }
