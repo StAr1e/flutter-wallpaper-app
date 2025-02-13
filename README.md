@@ -8,20 +8,20 @@ This project is a starting point for a Flutter application.
 
 ## App Screenshots
 
-### Home Screen  
-![Screenshot 1](assets/images/screenshot/s1.JPG)
+### Splash screen 
+![Screenshot 1](assets/images/screenshot/s1.jpg)
 
-### Wallpaper Preview  
-![Screenshot 2](assets/images/screenshot/s2.JPG)
+### Sign up 
+![Screenshot 2](assets/images/screenshot/s2.jpg)
 
-### Categories Page  
-![Screenshot 3](assets/images/screenshot/s3.JPG)
+### Home page 
+![Screenshot 3](assets/images/screenshot/s3.jpg)
 
-### Favorites Page  
-![Screenshot 4](assets/images/screenshot/s4.JPG)
+### Categories Page   
+![Screenshot 4](assets/images/screenshot/s4.jpg)
 
-### Settings Page  
-![Screenshot 5](assets/images/screenshot/s5.JPG)
+### Side bar 
+![Screenshot 5](assets/images/screenshot/s5.jpg)
 
 
 
