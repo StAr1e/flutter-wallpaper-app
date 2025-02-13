@@ -1,1 +1,25 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"","appId":"","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"balochify-17","configurations":{"android":"","ios":"","macos":"","web":"","windows":""}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "",
+          "appId": "",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "",
+          "configurations": {
+            "android": "",
+            "ios": "",
+            "macos": "",
+            "web": "",
+            "windows": ""
+          }
+        }
+      }
+    }
+  }
+}
